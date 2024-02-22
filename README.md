@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Biki</h1>
 <h3 align="center">A passionate frontend developer from Harlem</h3>
-<img align="right" alt="Coding" width="400" src="https://superrare.com/artwork/sf05---curious-skull-2625">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/evil-laugh-joker-kxcv701j5pvatjqu.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atabikm1&label=Profile%20views&color=0e75b6&style=flat" alt="atabikm1" /> </p>
